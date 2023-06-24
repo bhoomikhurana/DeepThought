@@ -1,0 +1,73 @@
+.bg-layer3 {
+  height: 68.42%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 31.58%;
+  background-color: var(--color-gray-600);
+  box-shadow: 1px 3px 8px rgba(0, 0, 0, 0.25);
+  border: 0.1px solid var(--color-darkslategray);
+  box-sizing: border-box;
+  opacity: 0.5;
+}
+.bg-layer3,
+.bg-layer4,
+.bg-layer5 {
+  position: absolute;
+  left: 0;
+  border-radius: var(--br-3xs);
+}
+.bg-layer5 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  background-color: var(--color-white);
+  box-shadow: 1px 3px 8px rgba(0, 0, 0, 0.25);
+  border: 0.1px solid var(--color-darkslategray);
+  box-sizing: border-box;
+  opacity: 0.5;
+}
+.bg-layer4 {
+  top: 25px;
+  background-color: var(--color-gray-400);
+  width: 199px;
+  height: 70px;
+}
+.enter-text-here1,
+.sub-thread-1 {
+  position: absolute;
+  top: 33.68%;
+  left: 3.52%;
+  color: var(--color-slategray);
+  border: none;
+  outline: none;
+}
+.sub-thread-1 {
+  top: 4.21%;
+  left: 3.48%;
+  color: var(--color-black);
+}
+.bg-layer-group {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.expanded-journey-board-inner2 {
+  position: absolute;
+  height: 5.26%;
+  width: 13.82%;
+  top: 33.46%;
+  right: 32.5%;
+  bottom: 61.27%;
+  left: 53.68%;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-slategray);
+  font-family: var(--font-open-sans);
+}
